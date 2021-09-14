@@ -3,7 +3,7 @@ A collection of gcode macros and guides to combat the effects of bimetallic (and
 
 If you suffer from any of the following:
 1) Nicely laid first layer, but second layer is too high and looks like crap
-2) Z offset changes between prints (too high when the printer is heatsoaked, but too low when it is not)
+2) Z offset changes between prints (too high when the printer is heatsoaked, but too low when it is not, or vice versa)
 3) Bed mesh doesn't seem to work well on full plates
 4) Have to heatsoak the printer for hours just for the above problems to disappear
 
