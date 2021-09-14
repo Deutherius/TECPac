@@ -15,4 +15,4 @@ Check out the following repositories:
 
 ![Dumb Frame Comp](https://github.com/Deutherius/DFC), to counteract vertical frame member expansion and fix the first-second layer transition issues
 
-It looks daunting at first, but setting it up is actually very simple (detailed instructions included!), and in my case (using a Voron 2.4 300mm spec), I can literally start a print without heatsoaking for more than 5 minutes and get a nigh *perfect* first layer squish regardless of whether the printer is at ambient temps or heatsoaked from printing all day. All of that without any additional hardware except *one thermistor*.
+It looks daunting at first, but setting it up is actually very simple (detailed instructions included!), and in my case (using a Voron 2.4 300mm spec), I can literally start a print without heatsoaking for more than 5 minutes and get a nigh *perfect* first layer squish and consistent layers regardless of whether the printer is at ambient temps or heatsoaked from printing all day. All of that without any additional hardware except *one thermistor*.
