@@ -8,6 +8,7 @@ If you suffer from any of the following:
 4) Have to heatsoak the printer for hours just for the above problems to disappear
 
 Check out the following repositories:
+
 ![Virtual Gantry Backers](https://github.com/Deutherius/VGB), a dynamic mesh loading system that counteracts gantry bowing due to bimetallic thermal expansion of gantry members
 
 ![Gantry bowing-induced Z-offset correction through relative reference index](https://github.com/Deutherius/Gantry-bowing-induced-Z-offset-correction-through-relative-reference-index), to fix that inconsistent Z offset between heatsoaked and not-as-well heatsoaked printer
