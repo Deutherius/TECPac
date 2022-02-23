@@ -13,7 +13,8 @@ Check out the following repositories:
 
 [Virtual Gantry Backers](https://github.com/Deutherius/VGB), a dynamic mesh loading system that counteracts gantry bowing due to bimetallic thermal expansion of gantry members
 
-[Dumb Frame Comp](https://github.com/Deutherius/DFC), to counteract vertical frame member expansion and fix the rest of the first-second layer transition issues
+~~[Dumb Frame Comp](https://github.com/Deutherius/DFC), to counteract vertical frame member expansion and fix the rest of the first-second layer transition issues~~
+(There is a bug in my current version of frame comp which causes random blobs to appear on curved sections of prints, do not use it until it is updated. If you are running DFC, remove it from your printer config (disabling it through enable=0 is *not* enough). If you need the functionality, install the [not-dumb frame comp Moonraker plugin from Alchemy](https://github.com/alchemyEngine/klipper_frame_expansion_comp))
 
 It looks daunting at first, but setting it up is actually very simple (detailed instructions included!), and in my case (using a Voron 2.4 300mm spec), I can literally start a print without heatsoaking for more than 5 minutes and get a nigh *perfect* first layer squish and consistent layers regardless of whether the printer is at ambient temps or heatsoaked from printing all day. All of that without any additional hardware except *one thermistor*.
 
